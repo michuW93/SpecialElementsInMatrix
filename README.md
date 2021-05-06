@@ -7,7 +7,9 @@ Given a matrix of size m*n, m denotes the row starting with index 0 and n denote
 For example, given a matrix of size 3*3, the elements are stored as follows.
 
 1  3  4
+
 5  2  9
+
 8  7  6
 
 The expected output is 7.
